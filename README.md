@@ -1,2 +1,5 @@
 # Hello-World
-First repository
+Hi Everyone!
+
+
+Im a first-year student 
